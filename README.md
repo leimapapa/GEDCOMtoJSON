@@ -1,2 +1,2 @@
 # GEDCOMtoJSON
-convert a genealogy file to json format
+convert a genealogy .ged file to .json format
